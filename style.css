@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    text-decoration: none;
+    color:bisque;
+}
+.para{
+    color:aquamarine;
+    font-size:15px;
+}
+#submit{
+    padding: 10px 24px;
+    background-color: aqua;
+}
